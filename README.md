@@ -2,8 +2,6 @@
 
 A beginner Python project that records, saves, and summarises personal expenses using CSV files.
 
-Built as part of the **Applied AI/ML Engineering** program at [AI Mentorship Hub](https://www.aimentorshiphub.com).
-
 ---
 
 ## What This Project Does
@@ -103,4 +101,4 @@ Valid categories: Food, Travel, Bills, Study, Other — or create your own.
 
 ---
 
-*AI Mentorship Hub | www.aimentorshiphub.com*
+*Venkatesh Mokkarala*
